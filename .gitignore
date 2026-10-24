@@ -1,6 +1,15 @@
+# Environment
 .env
+
+# Python
 .venv/
 __pycache__/
 *.py[cod]
+
+# Node
 node_modules/
 dist/
+
+# Build and editor files
+.vscode/
+.idea/
